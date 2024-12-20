@@ -2730,6 +2730,7 @@ input[type="radio"] {
 }
 
 .navbar .nav__item .nav__item-link {
+  text-decoration: none;
   font-size: 15px;
   font-weight: 500;
   text-transform: capitalize;
@@ -2741,7 +2742,7 @@ input[type="radio"] {
 }
 
 .navbar a:hover {
-  color: #334158 !important;
+  color: #335857 !important;
   text-decoration: none;
 }
 
